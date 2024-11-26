@@ -1,0 +1,26 @@
+body {
+  display: flex;
+}
+
+.butOne {
+  width: 15em;
+  border: 2px solid brown;
+  padding: 8px 12px;
+}
+.elem {
+  margin: 0 auto;
+  display: block;
+  margin-top: 25%;
+}
+
+.butTwo {
+  color: blueviolet;
+  font-size: 18px;
+}
+
+h2 {
+  font-size: 32px;
+  padding: 22px 44px;
+  font-weight: bold;
+  text-align: center;
+}
